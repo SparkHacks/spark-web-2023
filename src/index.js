@@ -18,14 +18,14 @@ import {
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename='/spark-web-2023'>
         <Routes>
             <Route path="/" element={<Layout />}>
                 <Route index element={<Home />}></Route>
-                <Route path="about" element={<About />}></Route>
-                <Route path="eventdetails" element={<EventDetails />}></Route>
-                <Route path="contact" element={<Contact />}></Route>
-                <Route path="social" element={<Social />}></Route>
+                <Route path="/about" element={<About />}></Route>
+                <Route path="/eventdetails" element={<EventDetails />}></Route>
+                <Route path="/contact" element={<Contact />}></Route>
+                <Route path="/social" element={<Social />}></Route>
                 <Route path="*" element={<NotFound />}></Route>
             </Route>
         </Routes>

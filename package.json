@@ -2,7 +2,7 @@
   "name": "sparkhacksatuic-2023",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sparkhacksatuic.com/",
+  "homepage": "https://sparkhacks.github.io/spark-web-2023",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -45,6 +45,7 @@
     "autoprefixer": "^10.4.12",
     "eslint": "^8.26.0",
     "eslint-plugin-react": "^7.31.10",
+    "gh-pages": "^6.3.0",
     "postcss": "^8.4.17",
     "tailwindcss": "^3.1.8"
   }

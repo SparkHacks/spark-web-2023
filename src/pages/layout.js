@@ -20,7 +20,7 @@ export default function Home(){
     <div>
       <div className={"h-10 pb-1 bg-primary-light"}></div>
       <nav className={"justify-between md:justify-start fixed block top-0 left-0 w-full flex gap-3 items-center align-center bg-primary-light z-50 animate-fade-in"}>
-        <a href='https://sparkhacksatuic.com' className='flex items-center ml-2'>
+        <a href='https://sparkhacks.org' className='flex items-center ml-2'>
           <img src={sparkLogo} className={"h-10 m-0 align-center box-content mr-2"} alt={"spark hacks logo"}/>
           <h5 className='whitespace-nowrap'><b>SparkHacks 2023</b></h5>
         </a>

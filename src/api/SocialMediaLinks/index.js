@@ -1,5 +1,6 @@
 const SocialLinks = {
-    "LinkedIn": "https://www.linkedin.com/in/sparkhacks-uic-343612269/",
+    // "LinkedIn": "https://www.linkedin.com/in/sparkhacks-uic-343612269/",
+    "LinkedIn": "https://www.linkedin.com/company/sparkhacks/",
     "Facebook": "https://www.facebook.com/profile.php?id=100090984219952",
     "Twitter": "https://twitter.com/SparkhacksAtUIC",
     "Instagram": "https://www.instagram.com/sparkhacksuic/",
